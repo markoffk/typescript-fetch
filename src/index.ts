@@ -1,0 +1,1 @@
+export {tsFetch} from './typescript-fetch'
